@@ -87,6 +87,15 @@ body {
     font-size: 15px;
 }
 
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 25px;
+}
+
 .one, .two, .three, .four {
     display: flex;
     flex-direction: column;
