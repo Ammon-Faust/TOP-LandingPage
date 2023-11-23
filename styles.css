@@ -39,6 +39,27 @@ body {
     justify-content: space-evenly;
     padding-top: 25px;
     gap: 30px ;
+    padding-bottom: 175px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7EB;
+}
+
+.message {
+    font-weight: lighter;
+    font-size: 24px;
+    padding-top: 120px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.author {
+    text-align-last: right;
+    padding-right: 420px;
+    padding-bottom: 80px;
 }
 
 .one, .two, .three, .four {
